@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body style="background-color:lightblue">
+  <div>
+    <h2>My favorite habit:</h2>
+    <ul>
+    <dl>
+      <dt>
+        <ul>
+          <li>Reading Books</li>
+          <li>Watching Movies</li>
+          </ul>
+          <li>
+            <div>
+             Programming
+              <dl>
+                <dt>
+                  <ul>
+                    <li>Orangd<br>
+                    <li>Green<br>
+                    <li>White<br>
+                  </ul><br>
+                  <hr/>
+                </dt>
+                <dd>
+
+                </dd>
+              </dl>
+            </div>
+          </li>
+        </ul>
+      </dt>
+    </dl>
+  </div>
+  <div style ="background-color: red; color: white: 0;">
+      <p>Four thinge to expect in life:</p>
+      <ul>
+      <dl>
+        <dt>
+          <ul>
+            <dt>•Love</dt>
+           
+                 <dd>I.happiness </dd>
+                 <dd>II.emotion </dd>
+            <dt>•Hate </dt>
+            <dd>I.Fear </dd>
+            <dd>II.Shame</dd>
+            <dt>•Work </dt>
+            <dd>I.Jobs </dd>
+                <dd>II.Careers </dd>
+                <dt>•Play </dt>
+                <dd>I.Retirement </dd>
+                <dd>II.Recreation</dd><br></dl><hr/><br>
+            </dt>
+            <dl>
+  </div>
+  <div>
+    <h2>List of Items:</h2>
+    <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+          <li>Item 4</li>
+             <ul>
+               <li>Sub-Item 1</li>
+               <li>Sub-Item 2</li>
+               </ul><br><br><br><br><ul>
+                 <li>Sub-Item 3 </li><br></ul>
+                 <ul><ul>
+                   <li>Sub-Sub-Item 1</li>
+                   <li>Sub-Sub-Item 2</li>
+                   <li>Sub-Sub-Item 3</li>
+                   </ul></ul>
+                   <ul><ul><ul>
+                     <li>Sub-Sub-Sub- 1</li>
+                     <li>Sub-Sub-Sub- 2</li>
+                     <li>Sub-Sub-Sub- 3</li>
+                     <li>Sub-Sub-Sub- 4</li>
+                     </ul>
+                     </ul></ul></ul>
+                     <ul><ul><ul>
+                <li>Sub-Sub-Sub-Item 4</ul>
+                </ul></ul></ul>
+                <ul><ul>
+                  <li>Sub-Item- 4</li>
+                  <ul>
+                    <li>Itme 5</li>
+                    <li>Itme 6</li>
+               </ul>
+             </dt>
+    </dl>
+  </div>
+  <div style="blackground-color:blue; color:white: 0;">
+    <h2>Aircraft types</h2>
+        <ul>
+          <li>General Aviation (Piston-friven eading)</li>
+          <ol type="1"><ol type="1">
+          <li>1 Singl- Engine Aircraft</li>
+          <li>Tail Wheel</li>
+          <li>Tricycle</li>
+          </ol>
+          <li>Daul- Engin Aircraft</li>
+          <ol type="A">
+          <li>Wing- Mounted Engines</li>
+          <li>Push- Pull fuselage- Mounted Engines</li>
+          </ol>
+          <ul>
+          <li>Commercial Aviation (jet Engines) </li>
+          </ul>
+          <ol type="1">
+          <li>Daul- Engine</li>
+          <ol type="a">
+          <li>Wing- Mounted Engine</li>
+          <li>Fuselage- Mounted Engines</li>
+          </ol>
+          <li>Tri- Engine</li>
+          <ol type="i">
+          <li>Third Engine in Vertical Stabilize</li>
+          <li>Third Engine in Fuselage</li>
+          </ol>
+  </div>
+        <img src="sking.JPG" alt="picture" width="400px" height="400px" align="center">
+</body>
+</html>
